@@ -1,0 +1,112 @@
+* {
+    margin: 0px;
+}
+
+.navbar {
+    position: fixed;
+    width: 100%;
+}
+
+
+/* cabecera*/
+
+#Titulo-hj {
+    overflow: hidden;
+    padding: 50px 150px;
+    float: inline-start;
+}
+
+#foto {
+    width: 150px;
+    float: left;
+}
+
+h1 {
+    padding-top: 1.5cm;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+/* fin cabecera*/
+
+
+/*body*/
+
+.contenedor-datos {
+    overflow: hidden;
+    text-align: center;
+    align-content: center;
+    padding-left: 2cm;
+}
+
+.form-switch {
+    width: 250px;
+}
+
+h2 {
+    font-size: 15px;
+}
+
+#div-input {
+    padding-top: 0.3cm;
+}
+
+.datos {
+    float: left;
+    padding-left: 1cm;
+}
+
+#div-description {
+    overflow: hidden;
+    text-align: center;
+    padding-top: 1cm;
+}
+
+
+/* fin body*/
+
+
+/* pie pagina*/
+
+footer {
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.descripcion1 .social {
+    margin-top: 25px;
+}
+
+.descripcion1 .social h2 {
+    color: rgb(75, 73, 72);
+    font-size: 20px;
+    align-content: center;
+}
+
+.descripcion1 .social a {
+    align-content: center;
+    display: inline-block;
+    padding: 0 15px;
+    color: rgb(211, 84, 0);
+}
+
+.descripcion1 .social .fab1:hover {
+    color: #122753;
+    transition: all .3s;
+}
+
+.descripcion1 .social .fab2:hover {
+    color: #d733dd;
+    transition: all .3s;
+}
+
+.descripcion1 .social .fab3:hover {
+    color: #3369dd;
+    transition: all .3s;
+}
+
+
+/* fin pie pagina*/
